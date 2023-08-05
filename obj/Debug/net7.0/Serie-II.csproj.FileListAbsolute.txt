@@ -1,0 +1,15 @@
+/Users/josejavier/Projects/Serie-II/Serie-II/bin/Debug/net7.0/Serie-II
+/Users/josejavier/Projects/Serie-II/Serie-II/bin/Debug/net7.0/Serie-II.deps.json
+/Users/josejavier/Projects/Serie-II/Serie-II/bin/Debug/net7.0/Serie-II.runtimeconfig.json
+/Users/josejavier/Projects/Serie-II/Serie-II/bin/Debug/net7.0/Serie-II.dll
+/Users/josejavier/Projects/Serie-II/Serie-II/bin/Debug/net7.0/Serie-II.pdb
+/Users/josejavier/Projects/Serie-II/Serie-II/obj/Debug/net7.0/Serie-II.csproj.AssemblyReference.cache
+/Users/josejavier/Projects/Serie-II/Serie-II/obj/Debug/net7.0/Serie-II.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josejavier/Projects/Serie-II/Serie-II/obj/Debug/net7.0/Serie-II.AssemblyInfoInputs.cache
+/Users/josejavier/Projects/Serie-II/Serie-II/obj/Debug/net7.0/Serie-II.AssemblyInfo.cs
+/Users/josejavier/Projects/Serie-II/Serie-II/obj/Debug/net7.0/Serie-II.csproj.CoreCompileInputs.cache
+/Users/josejavier/Projects/Serie-II/Serie-II/obj/Debug/net7.0/Serie-II.dll
+/Users/josejavier/Projects/Serie-II/Serie-II/obj/Debug/net7.0/refint/Serie-II.dll
+/Users/josejavier/Projects/Serie-II/Serie-II/obj/Debug/net7.0/Serie-II.pdb
+/Users/josejavier/Projects/Serie-II/Serie-II/obj/Debug/net7.0/Serie-II.genruntimeconfig.cache
+/Users/josejavier/Projects/Serie-II/Serie-II/obj/Debug/net7.0/ref/Serie-II.dll
